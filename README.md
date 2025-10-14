@@ -1,5 +1,10 @@
-<header>
-
+# Welcome to My Markdown Page
+This is my first header written in Markdown.
+# Header 1
+## Header 2
+### Header 3
+This is a paragraph under multiple headers.
+  <header>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
